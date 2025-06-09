@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>program\Wild Magic Roller Unfinished Updated 2.jar</jar>
+  <outfile>program\WildMagicRoller.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>src\WildMagicRoller\icon.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <splash>
+    <file>src\WildMagicRoller\icon.ico</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>30</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+  <versionInfo>
+    <fileVersion>0.1.0.0</fileVersion>
+    <txtFileVersion>J.2023.07</txtFileVersion>
+    <fileDescription>Wild Magic Dice Roller made in Java</fileDescription>
+    <copyright>Nouraldin Hassan</copyright>
+    <productVersion>2023.07.22.0</productVersion>
+    <txtProductVersion>J.2023.07</txtProductVersion>
+    <productName>Wild Magic Roller</productName>
+    <companyName>Nouraldin Hassan</companyName>
+    <internalName>WildMagicRoller</internalName>
+    <originalFilename>WildMagicRoller.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>

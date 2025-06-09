@@ -1,0 +1,18 @@
+Defaults:
+
+panelGeneralFontStyle=1
+buttonFontStyle=1
+panelGeneralFontSize=12
+panelHistoryFontStyle=1
+buttonFontType=Arial
+panelGeneralFontType=Arial
+historyOpen=true
+panelHistoryFontType=Arial
+panelHistoryFontSize=12
+buttonFontSize=12
+
+All FontStyle is set to 1
+All FontSize is set to 12
+All FontType is set to Arial
+
+FontStyle 1 means default, 2 is Italics, 3 is Bold, 4 is Bold and Italics
